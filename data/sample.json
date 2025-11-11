@@ -1,0 +1,35 @@
+[
+  {
+    "searchUrl": "https://www.houzz.com/professionals/kitchen-and-bath/chicago-il-us-probr0-bo~t_11790~r_4887398",
+    "scrapedAt": "2025-02-02T03:27:56.886Z",
+    "professional": {
+      "userId": 64904,
+      "professionalId": 8960,
+      "formattedAddress": "512 N. Main St.<br/>Glen Ellyn, IL 60137",
+      "formattedPhone": "(630) 556-8881",
+      "aboutMe": "Since 1987, Drury Design has been at the forefront of luxury home remodeling...",
+      "proTypeDisplayName": "Kitchen & Bath Designers",
+      "location": "Glen Ellyn, IL",
+      "address": "512 N. Main St. ",
+      "city": "Glen Ellyn",
+      "state": "IL",
+      "zip": "60137",
+      "country": "US",
+      "highlightBadges": [
+        {
+          "id": 1000,
+          "title": "Best of Houzz winner",
+          "description": "The annual Best of Houzz Award recognizes the top-rated & top-contributing home pros around the world."
+        }
+      ],
+      "mostRecentReview": {
+        "body": "Ten years after they completed my kitchen-bath remodel, the Drury team helped me resolve some minor maintenance issues promptly and courteously...",
+        "user": {
+          "userName": "webuser_192562756",
+          "displayName": "Cynthia Heidorn"
+        }
+      },
+      "reviewRating": 49
+    }
+  }
+]
